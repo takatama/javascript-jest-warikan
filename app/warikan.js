@@ -1,5 +1,5 @@
 function calc() {
-  return -1;
+  return { result: -1 };
 }
 
 module.exports = calc;
