@@ -13,7 +13,7 @@
 0. nodeを使えるようにしておく（Macならbrewとnvmがオススメ）
 1. Visual Studio Codeを起動する。
 2. ```Ctrl + Shift + P```でコマンドパレットを開き、```git clone```と入力する。
-3. repository URLに```ttps://github.com/takatama/javascript-jest-warikan```と入力する。
+3. repository URLに```https://github.com/takatama/javascript-jest-warikan```と入力する。
 4. cloneするディレクトリーを選択する。
 
 ## Visual Studio Codeでのテスト実行
@@ -37,9 +37,9 @@ Visual Studio Codeを起動するたびに実施する必要があるので注�
 
 たとえば3330円を普通の人2名、多い人1名、少ない人1名で割る場合: 
 - 普通の人833円
-- 多い人1249円
-- 少ない人は416円
-- 幹事は1円もらう
+- 多い人1250円
+- 少ない人は417円
+- 幹事は3円もらう
 
 ### Step3
 10円単位で計算する。
