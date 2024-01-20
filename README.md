@@ -2,10 +2,9 @@
 
 ## ファイルの説明
 
-- .gitignore : Git で管理しないファイル。
-- README.md : 本ファイル
-- app
+- src
   - warikan.js : プロダクトコード
+- tests
   - warikan.test.js : テストコード
 
 ## Visual Studio Code でのセットアップ
